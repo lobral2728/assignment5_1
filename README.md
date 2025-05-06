@@ -1,4 +1,4 @@
-# assignment5_1
+# Assignment 5.1
 This UC Berkeley Emeritus program assignment is all about cleaning, analysing a dataset, and presenting a dataset. 
 The objective is to ask and answer a few important questions about the dataset and show the steps to reach conclusions.
 
@@ -6,6 +6,8 @@ The objective is to ask and answer a few important questions about the dataset a
 UCI Machine Learning repository and was collected via a survey on Amazon Mechanical Turk: 
 
 https://github.com/jessi88/in-vehicle_coupon_recommendation
+
+Note: the UCI link was broken at the time this assignment was completed so I included this reference instead.
 
 ## Analysis Questions
 1. Analyze drivers over a certain age that go to bars for their responses to coupons.
