@@ -10,8 +10,9 @@ https://github.com/jessi88/in-vehicle_coupon_recommendation
 Note: the UCI link was broken at the time this assignment was completed so I included this reference instead.
 
 ## Analysis Questions
-1. Analyze drivers over a certain age that go to bars for their responses to coupons.
-2. Analyze drivers under the age of 25 who frequent coffee houses.
+1. Will the Customer Accept the Coupon?
+  a. Analyze drivers over a certain age that go to bars for their responses to coupons.
+  b. Analyze drivers under the age of 25 who frequent coffee houses.
 
 ## Conclusion
 In both cases, older bar visitors and younger coffee drinkers both will accept coupons more than the rest of the drivers in the sample.
